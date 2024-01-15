@@ -63,6 +63,7 @@ button{
    border:5px solid black;
   height: 300px;
   padding: 5px;
+  border-radius: 20px;
 }
 
 #right_container{
